@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+}
+main div {
+  display: flex;
+  flex-direction: inherit;
+}
+main section {
+  display: flex;
+  flex-direction: column;
+}/*# sourceMappingURL=app.css.map */
